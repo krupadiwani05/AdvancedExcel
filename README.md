@@ -16,6 +16,7 @@ This repository includes:
 - Revenue & KPI Analysis
 - Formula Auditing Exercises
 - Conditional Formatting Projects
+- Logical Function Exercises
 - Data Visualization Activities
 
 ---
@@ -48,11 +49,25 @@ This repository includes:
 - Improved data visualization for business analysis
 - Generated meaningful insights from business data
 
+### EX6 - Classifying Sales Performance Using Logical Conditions
+- Applied IF, Nested IF, AND, OR, NOT, and IFERROR functions
+- Classified sales performance using logical conditions
+- Categorized records based on business rules
+- Evaluated sales and profit performance
+- Created a QAF (Question, Answer & Formula) sheet for documentation
+- Generated business insights using logical functions
+
 ---
 
 ## 🚀 Skills Demonstrated
 
 - Excel Formulas & Functions
+- IF Function
+- Nested IF Function
+- AND Function
+- OR Function
+- NOT Function
+- IFERROR Function
 - Conditional Formatting
 - Data Cleaning
 - Data Validation
@@ -63,6 +78,7 @@ This repository includes:
 - Business Reporting
 - Data Visualization
 - Business Insight Generation
+- Logical Data Classification
 
 ---
 
@@ -70,7 +86,8 @@ This repository includes:
 
 - Microsoft Excel
 - Conditional Formatting
-- Excel Functions
+- Logical Functions
+- Formula-Based Analysis
 - Data Analysis Techniques
 - Business Analytics
 - Reporting & Visualization
@@ -82,14 +99,16 @@ This repository includes:
 Through these exercises, I gained practical experience in:
 
 - Analyzing business datasets
+- Applying Excel formulas and logical functions
 - Identifying trends and patterns
 - Creating reports and summaries
-- Applying Advanced Excel techniques
+- Performing business and sales analysis
 - Improving data visualization
+- Generating actionable business insights
 - Supporting data-driven decision-making
 
 ---
 
 ## 📌 Purpose
 
-This repository serves as a portfolio of my Advanced Excel work and demonstrates my ability to use Excel for business analysis, reporting, visualization, and insight generation.
+This repository serves as a portfolio of my Advanced Excel work and demonstrates my ability to use Excel for data analysis, business reporting, visualization, and insight generation.
