@@ -1,8 +1,8 @@
 # 📊 Advanced Excel Portfolio
 
-Welcome to my Advanced Excel repository. This repository contains hands-on exercises, practice files, and business data analysis tasks completed during my Advanced Excel training.
+Welcome to my Advanced Excel repository. This repository contains hands-on exercises, business data analysis projects, dashboards, and reporting solutions completed during my Advanced Excel training.
 
-The objective of this repository is to showcase practical Excel skills used for data analysis, reporting, visualization, and business decision-making.
+The goal of this repository is to demonstrate practical Excel skills used for data analysis, reporting, visualization, automation, and business decision-making.
 
 ---
 
@@ -11,12 +11,15 @@ The objective of this repository is to showcase practical Excel skills used for 
 This repository includes:
 
 - Advanced Excel Exercises
-- Data Analysis Projects
-- Business Reporting Tasks
+- Business Data Analysis Projects
+- Dashboard Development
 - Revenue & KPI Analysis
 - Formula Auditing Exercises
 - Conditional Formatting Projects
 - Logical Function Exercises
+- Region-wise Sales Analysis
+- Lookup Function Projects
+- Pivot Table & Chart Analysis
 - Data Visualization Activities
 
 ---
@@ -54,20 +57,52 @@ This repository includes:
 - Classified sales performance using logical conditions
 - Categorized records based on business rules
 - Evaluated sales and profit performance
-- Created a QAF (Question, Answer & Formula) sheet for documentation
 - Generated business insights using logical functions
+
+### EX7 - Generating Region-wise Sales Insights
+- Performed region-wise sales analysis
+- Calculated total sales, profit, and quantity by region
+- Used SUMIF, COUNTIF, and AVERAGEIF functions
+- Created dashboard-based reports
+- Generated regional business insights
+
+### EX8 - Merging and Retrieving Data Using Lookup Functions
+- Applied XLOOKUP, VLOOKUP, and HLOOKUP functions
+- Used INDEX and MATCH for dynamic data retrieval
+- Merged and analyzed data from multiple worksheets
+- Improved efficiency and accuracy of data retrieval processes
+
+### EX9 - Analyzing Sales Trends with PivotTables and Charts
+- Created Pivot Tables for sales trend analysis
+- Summarized large datasets into meaningful reports
+- Generated month-wise sales insights
+- Built Pivot Charts for visualization
+- Performed trend analysis to support business decisions
+- Improved reporting through interactive Excel features
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-- Excel Formulas & Functions
+### Excel Functions
 - IF Function
 - Nested IF Function
 - AND Function
 - OR Function
 - NOT Function
 - IFERROR Function
+- SUMIF Function
+- COUNTIF Function
+- AVERAGEIF Function
+- VLOOKUP Function
+- HLOOKUP Function
+- XLOOKUP Function
+- INDEX Function
+- MATCH Function
+- INDEX + MATCH
+- INDEX + Multiple MATCH
+
+### Data Analysis & Reporting
 - Conditional Formatting
 - Data Cleaning
 - Data Validation
@@ -76,17 +111,25 @@ This repository includes:
 - KPI Analysis
 - Formula Auditing
 - Business Reporting
+- Dashboard Creation
+- Pivot Tables
+- Pivot Charts
+- Trend Analysis
 - Data Visualization
 - Business Insight Generation
-- Logical Data Classification
+- Region-wise Sales Analysis
+- Data Retrieval & Data Merging
 
 ---
 
 ## 🛠 Tools Used
 
 - Microsoft Excel
-- Conditional Formatting
+- Pivot Tables & Pivot Charts
+- Lookup Functions
 - Logical Functions
+- Conditional Formatting
+- Dashboard Components
 - Formula-Based Analysis
 - Data Analysis Techniques
 - Business Analytics
@@ -99,16 +142,18 @@ This repository includes:
 Through these exercises, I gained practical experience in:
 
 - Analyzing business datasets
-- Applying Excel formulas and logical functions
+- Applying advanced Excel formulas and functions
+- Creating dashboards and reports
+- Using Pivot Tables and Charts for reporting
+- Retrieving and merging data efficiently
 - Identifying trends and patterns
-- Creating reports and summaries
-- Performing business and sales analysis
+- Performing sales and profit analysis
+- Generating business insights
 - Improving data visualization
-- Generating actionable business insights
 - Supporting data-driven decision-making
 
 ---
 
 ## 📌 Purpose
 
-This repository serves as a portfolio of my Advanced Excel work and demonstrates my ability to use Excel for data analysis, business reporting, visualization, and insight generation.
+This repository serves as a portfolio of my Advanced Excel work and demonstrates my ability to use Excel for data analysis, reporting, dashboard creation, visualization, and business insight generation.
