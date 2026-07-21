@@ -4,7 +4,7 @@ Welcome to my Advanced Excel repository. This repository contains hands-on exerc
 
 The goal of this repository is to demonstrate practical Excel skills used for data analysis, reporting, visualization, automation, and business decision-making.
 
----
+
 
 ## 📂 Repository Contents
 
@@ -80,7 +80,7 @@ This repository includes:
 - Performed trend analysis to support business decisions
 - Improved reporting through interactive Excel features
 
----
+
 
 ## 🚀 Skills Demonstrated
 
