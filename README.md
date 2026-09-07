@@ -40,7 +40,6 @@ Key areas covered:
 * Business Reporting
 * Data Visualization
 
----
 
 ## 🚀 Skills Demonstrated
 
@@ -75,7 +74,6 @@ Key areas covered:
 * Data Visualization
 * Business Insight Generation
 
----
 
 ## 🛠 Tools Used
 
@@ -87,7 +85,6 @@ Key areas covered:
 * Conditional Formatting
 * Data Analysis Techniques
 
----
 
 ## 🎯 Learning Outcomes
 
@@ -102,7 +99,6 @@ Through these exercises and projects, I gained practical experience in:
 * Business Insight Generation
 * Data-Driven Decision Making
 
----
 
 ## 📌 Purpose
 
